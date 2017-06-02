@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description:
 title: Formation SeeSD Training 
-description: "We are a group of OHSU students and researchers dedicated to learning about and sharing scientific coding techniques and knowledge in an effort to improve scientific research."
+description: "PROMOUVOIR L'ÉDUCATION SCIENTIFIQUE AU SÉNÉGAL! Cultiver la pensée critique et le plaisir de comprendre dès le plus jeune âge."
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
 
@@ -18,7 +18,7 @@ description: "We are a group of OHSU students and researchers dedicated to learn
 
 headlineSmall: "Bienvenue à la formation SeeSD!"
 headlineMain: "Travaillons ensemble"
-avatar: "img/logos/Portland_Oregon_-_White_Stag_sign_at_dusk_Steve Morgan.jpg"
+avatar: "img/logos/SeeSD.png"
 
 
 # Setup Google Calendar
@@ -27,9 +27,9 @@ avatar: "img/logos/Portland_Oregon_-_White_Stag_sign_at_dusk_Steve Morgan.jpg"
 # 2. change 'USER' in the example urls below to the username of the google account you made for your calendar
 # 3. set calendar_on: True.
 
-calendar_on: True
-calendar_embed_url: "https://www.google.com/calendar/embed?src=ohsucodeclub@gmail.com"
-calendar_ical_url: "https://www.google.com/calendar/ical/ohsucodeclub@gmail.com/public/basic.ics"
+# calendar_on: True
+# calendar_embed_url: "https://www.google.com/calendar/embed?src=ohsucodeclub@gmail.com"
+# calendar_ical_url: "https://www.google.com/calendar/ical/ohsucodeclub@gmail.com/public/basic.ics"
 
 # ===============================
 # Categories for sorting lessons.
