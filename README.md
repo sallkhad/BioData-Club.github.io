@@ -10,7 +10,7 @@ Welcome to SeeSD Volunteer training.
 
 We are currently designing a one week training session for our volunteers. 
 
-Below, you'll find further documentation on [SeeSD Training](https://sallkhad.github.io/SeeSD-Training.github.io/)'s Study Group project as well as instructions for how to contribute to this repo, and how to start your own study group!
+Below, you'll find further documentation on [SeeSD Training](https://sallkhad.github.io/SeeSD-Training.github.io/) 
 
 If you have curricula to share or something you believe will be a good add-up to the training, please contribute.
 Temptative content :point_down:
